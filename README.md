@@ -31,7 +31,8 @@ The project should implement the following functionalities:
 
 -   Read the log file
 -   Group the game data of each match
--   Collect kill data//gist.github.com/cloudwalk-tests/be1b636e58abff14088c8b5309f575d8)
+-   Collect kill data
+-   render on react a native screen
 
 #### Example
 
