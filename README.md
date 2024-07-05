@@ -18,7 +18,7 @@ You are welcome to use JavaScript or TypeScript for the implementation.
 
 -   Git
 -   A development environment for React Native
--   Quake game [log](https:3\. Tasks
+-   Quake game (attatched in this repository)
 ---------
 
 ### 3.1. Log Parser
